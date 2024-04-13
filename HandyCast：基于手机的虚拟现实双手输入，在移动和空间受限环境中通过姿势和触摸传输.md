@@ -1,10 +1,54 @@
-### 摘要
-尽管虚拟现实作为下一代通用计算平台具有潜力，但现有系统专为固定设置而设计，以支持在空中进行广泛的交互。然而，在移动场景中，用户周围空间的物理限制可能对使用传统控制器进行虚拟现实中的空间交互造成限制。在本文中，我们介绍了HandyCast，一种基于智能手机的输入技术，可以在虚拟现实中使用两只虚拟手进行全范围的3D输入，同时需要很少的物理空间，允许用户在移动环境中操作大型虚拟环境。HandyCast定义了一个姿势和触摸传输函数，将手机的位置和方向与触摸输入融合，得出两个单独的3D手部位置。用户像使用游戏手柄一样握住手机，因此可以移动和转动手机，独立控制他们的虚拟手。使用大拇指的触摸输入微调相应的虚拟手位置并控制对象选择。我们通过三项研究评估了HandyCast，将其性能与经典的双手控制器技术Go-Go进行了比较。
+#### Evaluation
 
-### 介绍
-在本文中，我们介绍了一种交互技术，它保留了用户周围的沉浸式空间3D交互，同时最大限度地减少了对物理空间的需求。我们用一种无处不在的替代品——个人智能手机——取代了两个VR控制器，并提出了HandyCast，一种基于智能手机的输入技术，可以控制两只虚拟的手。HandyCast支持在广阔的虚拟环境中通过手机内部的惯性和光学传感器与双手控制进行快速和全方位的交互，就像拿着游戏手柄一样。我们从互补的基于拇指的触摸输入中消除了对单个虚拟左手和右手的控制。
+**User Study 1: Performance Comparison in Optimal Space Setting**:
 
-图1a显示了一个用户在戴着头戴式显示器玩《工作模拟器》[35]，通过使用HandyCast在智能手机上进行交互。当右手虚拟手在远处进行交互，左手在中等距离操作时，(b)用户实际上坐在汽车的副驾驶座上，同时在空中控制着两只虚拟手，而将他的物理手臂放在膝盖上。(c) HandyCast通过其姿态和触摸转换函数重新定向手机上的所有运动和触摸输入，该函数计算出虚拟环境中每只虚拟手的位置、旋转和操作参数。用户可以接近、中等距离和远处的物体，因为HandyCast放大了手机的运动：我们将小的手机旋转和移动平稳迅速地转换为两只虚拟手的较大旋转和移动。
-虽然使用单个控制器控制两只手消除了两只手之间的独立性，但HandyCast接受左右拇指的触摸输入作为调整虚拟手位置的补充。这使用户可以通过同时的手机运动和触摸动作来体现输入，从而实现位置双手性，用户可以独立控制每只手的位置。因此，HandyCast利用了用户在电子游戏中无意中移动物理控制器的倾向，从而通过身体运动进一步体现其意图，尽管这种控制器运动并不产生效果。HandyCast还利用了用户长达十年的触摸屏经验，通过评估其精细的触摸动作来实现准确的虚拟现实中的3D光标控制。
-尽管与双手同时进行旋转和位置控制的双手操作不同，但HandyCast的位置双手性为用户提供了操作沉浸式环境所需的各种互动，如图2所示。HandyCast包括一个SteamVR驱动程序，用HandyCast的姿态和触摸转换函数的输出替代手持控制器输入。这允许通过3D交互操作任何虚拟现实应用程序进行选择、放置和跟踪，例如拉杆、操作滑块或打开门等，而无需外部跟踪硬件或额外的虚拟现实控制器。我们的视频详细演示了这些功能。
-我们首先详细介绍了HandyCast技术的设计原理，并提出了其三重评估：1)我们的第一个用户研究在一个完整的、坐姿设置中进行，有12名参与者比较了HandyCast、双控制器基线Go-Go [47]和基于智能手机的3D光标技术Tiltcasting [46]在单手和双手任务中的表现。HTC VIVE系统跟踪了所有空间输入，以便我们将分析重点放在技术特定的任务完成差异上。我们发现，参与者使用HandyCast完成任务的时间与使用双控制器Go-Go技术相比没有显著差异，但HandyCast所需的物理移动和控制空间显著少于两个基线。参与者报告了相似水平的身体所有权。2)我们的第二个用户研究在一个空间受限的坐姿设置中进行，有20名参与者比较了HandyCast与一个适应了空间受限的Go-Go，后者使用了与受限空间相适应的放大水平
+- This study aimed to compare the performance of HandyCast with the Go-Go technique (a classic bimanual controller technique) and the smartphone-based 3D cursor technique Tiltcasting in an open-space setting.
+- The research was designed as a within-subjects design, where participants completed tasks under different input technology conditions, including unimanual and bimanual tasks.
+- The tasks involved selecting and placing objects, with participants instructed to complete them as quickly as possible.
+- External tracking was conducted using the HTC VIVE system to eliminate the impact of tracking performance on the results, focusing on the specific differences between the techniques.
+- The results showed that, compared to the Go-Go technique, HandyCast did not significantly differ in task completion time but required significantly less physical motion and control space.
+- Participants reported a sense of body ownership comparable to the Go-Go technique.
+
+**User Study 2: Performance Comparison in Space-Constrained Setting**:
+
+- This study was conducted in a space-constrained environment, comparing the performance of HandyCast with the adjusted Go-Go technique (Space-Constrained Go-Go).
+- The research design was a mixed design, with target size as a between-subjects variable and technology as a within-subjects variable.
+- Similar to User Study 1, participants performed bimanual tasks but under physically constrained conditions.
+- The results indicated that HandyCast significantly outperformed Space-Constrained Go-Go in task completion time and required less interaction volume and path length.
+- The study also found that HandyCast maintained performance comparable to the non-constrained Go-Go technique, even in space-constrained situations.
+
+**Tracking Evaluation**:
+
+- This evaluation aimed to compare the performance of HandyCast using external tracking (HTC VIVE) and internal tracking (using ARKit).
+- Participants completed the same bimanual tasks, and the task completion times for both tracking methods were collected and compared.
+- The assessment found that, despite some drift in the phone's built-in tracking, participants were able to compensate for this drift, with no significant difference in task completion times.
+- This indicates that HandyCast is still feasible with built-in phone tracking, although further technological improvements may be needed to reduce drift.
+
+These evaluation results demonstrate that the HandyCast technology can provide an effective VR interaction experience under different physical space conditions. Particularly in space-constrained environments, it can significantly reduce the required physical motion and control space while maintaining interaction performance comparable to traditional bimanual controller techniques. Moreover, even with built-in phone tracking technology, HandyCast can provide a viable VR experience, although further improvements may be needed to enhance the accuracy and stability of the tracking.
+
+#### Conclusion
+
+**Main Findings:**
+
+- The HandyCast technology has demonstrated the feasibility of using smartphones as input devices for VR interaction in space-constrained environments. It allows users to effectively interact with VR using both hands within a small physical space while maintaining interaction performance similar to traditional VR controllers.
+- Compared to existing bimanual controller techniques, HandyCast shows no significant difference in task completion time but has a clear advantage in reducing the required physical motion and control space.
+- Design decisions in HandyCast, such as pose transfer amplification, touch transfer acceleration, and clutching timeout, provide users with an intuitive and efficient way to interact, making the use of VR more convenient in mobile and space-constrained settings.
+
+**Technical Contributions:**
+
+- The implementation of HandyCast shows how to transform a smartphone into a multifunctional VR controller, extending the usability of VR technology and offering new possibilities for mobile VR interaction.
+- With its built-in SteamVR controller driver, HandyCast is compatible with existing VR applications and games, allowing users to seamlessly use HandyCast within the current VR ecosystem.
+
+**Future Work:**
+
+- **Improvements in Tracking Technology**: Although the built-in phone tracking technology is sufficient for basic VR interaction, future research could explore how to combine advanced tracking technologies, such as camera-based hand tracking, to further improve accuracy and stability.
+- **Parameterization and Personalization**: Research could explore different users' preferences for pose and touch transfer parameters and how to allow users to customize these parameters for an optimized personal experience.
+- **Design for Complex Interactions**: While HandyCast currently supports basic bimanual interactions, future research could extend this concept to support more complex interactions, such as using multiple touch points for finer control.
+- **Compensation for Long-Term Tracking Drift**: Research could explore how to reduce drift issues over extended use, such as by dynamically updating anchor points or using other sensor data for drift correction.
+
+**Overall Impact:**
+
+- HandyCast brings a new way of interacting with VR to the field, leveraging the widely used smartphone as an input device, reducing reliance on external tracking hardware, and lowering the need for physical space while maintaining user immersion and control precision.
+- Through user studies and tracking evaluations, HandyCast has proven its effectiveness and feasibility in mobile and space-constrained environments, paving new avenues for the popularization and application of VR technology.
+
+This summary highlights the main contributions of the HandyCast technology and future research directions, while also pointing out its potential and impact on practical applications and the VR field. Through these assessments and analyses, the researchers have laid the foundation for further technological improvements and innovations.
