@@ -33,19 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown语法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2da0ef38d60e7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PPT素材.md",
+                "file": "演讲素材.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "演讲素材.md",
+                "file": "PPT素材.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff2b9dfd293354f1",
@@ -138,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演讲素材.md",
+                "file": "PPT素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演讲素材.md",
+                "file": "PPT素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演讲素材.md"
+                "file": "PPT素材.md"
               }
             }
           },
@@ -211,12 +200,12 @@
   },
   "active": "49eaecc3558c99fa",
   "lastOpenFiles": [
-    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
     "演讲素材.md",
-    "git.md",
     "Markdown语法.md",
-    "新建 文本文档.txt",
     "PPT素材.md",
+    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+    "git.md",
+    "新建 文本文档.txt",
     "Python.md",
     "Pasted image 20240411134055.png",
     "git_repository.png",
