@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md"
               }
             }
           },
@@ -251,11 +251,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c9be3c901fe50a2",
+  "active": "759d034000277de9",
   "lastOpenFiles": [
+    "健身.zip",
+    "Markdown语法.md",
+    "Spaces",
     "Python.md",
     "PPT素材.md",
-    "Markdown语法.md",
     "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
     "git_repository.png",
     "git.md",
@@ -278,7 +280,6 @@
     "~$Untitled.pptx",
     "Untitled.pptx",
     "未命名.canvas",
-    "Spaces",
     "create a link.md",
     "2024-04-09.md",
     "未命名 1.md"
