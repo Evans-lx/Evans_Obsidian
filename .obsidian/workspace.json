@@ -75,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbc4683254e3edc0",
+            "id": "78cd1b1a65b38c7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -263,18 +263,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbc4683254e3edc0",
+  "active": "78cd1b1a65b38c7c",
   "lastOpenFiles": [
-    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
-    "未命名.md",
-    "健身.zip",
-    "Markdown语法.md",
-    "Spaces",
     "Python.md",
+    "未命名.md",
+    "Welcome.md",
     "PPT素材.md",
-    "git_repository.png",
+    "Markdown语法.md",
+    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
     "git.md",
     "演讲素材.md",
+    ".md",
+    "健身.zip",
+    "Spaces",
+    "git_repository.png",
     "健身/健身.md",
     "健身/Pasted image 20240414122554.png",
     "健身/Pasted image 20240414122656.png",
@@ -286,7 +288,6 @@
     "健身/Pasted image 20240414123009.png",
     "健身/Pasted image 20240414122948.png",
     "健身/Pasted image 20240414122943.png",
-    "Welcome.md",
     "新建 文本文档.txt",
     "ssh-key-2024-04-11.key",
     "ssh-key-2024-04-11.key.pub",
