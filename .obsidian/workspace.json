@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "fbc4683254e3edc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49eaecc3558c99fa",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -251,14 +263,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "759d034000277de9",
+  "active": "fbc4683254e3edc0",
   "lastOpenFiles": [
+    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+    "未命名.md",
     "健身.zip",
     "Markdown语法.md",
     "Spaces",
     "Python.md",
     "PPT素材.md",
-    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
     "git_repository.png",
     "git.md",
     "演讲素材.md",
