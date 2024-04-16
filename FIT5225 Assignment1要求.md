@@ -4,10 +4,10 @@
 该任务具有以下目标：
 
 - 编写一个Python **Web服务**，接受JSON对象格式的图像，使用YOLO和OpenCV处理图像，并返回一个包含检测到的对象列表的JSON对象。
-- 为目标检测Web服务构建Docker镜像。
-- 在Oracle Cloud Infrastructure（OCI）的虚拟机（实例）上创建Kubernetes集群。
-- 部署一个Kubernetes服务，将入站请求分配到运行目标检测服务的Pod之间。
-- 使用Loucust编写负载生成脚本。
-- 在不同负载和Pod数量条件下测试系统。
+- 为目标检测Web服务构建**Docker镜像**。
+- 在Oracle Cloud Infrastructure（OCI）的虚拟机（实例）上创建**Kubernetes集群**。
+- 部署一个**Kubernetes服务**，将入站请求分配到运行目标检测服务的Pod之间。
+- 使用Loucust编写**负载生成**脚本。
+- 在不同负载和Pod数量条件下**测试**系统。
 
 您可以依次专注于这些目标，以获得部分分数。
