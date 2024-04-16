@@ -57,6 +57,6 @@ Web服务为每个请求创建一个线程，并使用YOLO和OpenCV Python库检
 ]
 }
 ```
-你需要使用yolov3-tiny框架开发一个快速可靠的对象检测RESTful API。你将使用预训练的网络权重，因此不需要自己训练对象检测程序。我们已经在yolo_tiny_configs.zip文件中提供了yolov3-tiny配置文件和权重。请注意，此网络是在COCO数据集上进行训练的（[http://cocodataset.org/#home](coco数据集)）。我们还为你提供了来自该数据集的一组样本图像（128张图像，位于zip文件中的inputfolder文件夹中），你应该使用它们进行测试。
+你需要使用yolov3-tiny框架开发一个快速可靠的对象检测RESTful API。你将使用预训练的网络权重，因此不需要自己训练对象检测程序。我们已经在yolo_tiny_configs.zip文件中提供了yolov3-tiny配置文件和权重。请注意，此网络是在COCO数据集上进行训练的（[[http://cocodataset.org/#home]()）。我们还为你提供了来自该数据集的一组样本图像（128张图像，位于zip文件中的inputfolder文件夹中），你应该使用它们进行测试。
 
 # 3 Dockerfile
