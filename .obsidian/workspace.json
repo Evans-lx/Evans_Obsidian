@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FIT5225 Assignment1要求.md"
+                "file": "git.md"
               }
             }
           },
@@ -278,8 +277,8 @@
   },
   "active": "c5d1f37597f94ace",
   "lastOpenFiles": [
-    "7.md",
     "FIT5225 Assignment1要求.md",
+    "7.md",
     "Pasted image 20240416170405.png",
     "k8s.md",
     "().md",
