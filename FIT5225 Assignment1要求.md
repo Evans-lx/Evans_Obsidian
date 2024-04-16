@@ -64,7 +64,7 @@ Docker通过从名为Dockerfile的文件中读取指令来构建镜像。Dockerf
 为了降低复杂性、依赖关系、文件大小和构建时间，请避免安装额外或不必要的软件包，即使它们可能是“好用的”。例如，你不需要在镜像中包含文本编辑器。优化Dockerfile并保持易于阅读和维护的重要性。
 
 # 4 Kubernetes集群
-你的任务是在OCI VM上安装和配置一个Kubernetes集群。为此，你将在OCI上安装K8s在三个VM实例上（你的所有VM实例应该是Intel机器，形状为VM.Standard.E4.Flex，8GB内存和4个OCPUs）。你需要设置一个具有1个控制器和2个运行在OCI VM上的工作节点的K8s集群。你需要在VM上安装Docker引擎。你应该使用Kubeadm配置你的K8s集群。
+你的任务是在OCI VM上安装和配置一个Kubernetes集群。为此，你将在OCI上安装K8s在三个VM实例上（你的所有VM实例应该是*Intel机器*，形状为*VM.Standard.E4.Flex*，8GB内存和4个OCPUs）。你需要设置一个具有1个控制器和2个运行在OCI VM上的工作节点的K8s集群。你需要在VM上安装Docker引擎。你应该使用Kubeadm配置你的K8s集群。
 
 # 5 Kubernetes服务
 当你有一个运行的Kubernetes集群后，你需要创建服务和部署配置，这将依次在集群中创建并部署所需的Pod。Kubernetes的官方文档包含了许多关于如何从Docker镜像创建Pod、设置CPU和/或内存限制以及创建使用选择器的部署的步骤。请确保为每个Pod设置CPU请求和CPU限制为“0.5”，内存请求和限制为“512MiB”。
