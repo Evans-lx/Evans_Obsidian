@@ -65,6 +65,7 @@ Docker通过从名为Dockerfile的文件中读取指令来构建镜像。Dockerf
 
 # 4 Kubernetes集群
 你的任务是在OCI VM上安装和配置一个Kubernetes集群。为此，你将在OCI上安装K8s在三个VM实例上（你的所有VM实例应该是Intel机器，形状为VM.Standard.E4.Flex，8GB内存和4个OCPUs）。你需要设置一个具有1个控制器和2个运行在OCI VM上的工作节点的K8s集群。你需要在VM上安装Docker引擎。你应该使用Kubeadm配置你的K8s集群。
+
 # 5 Kubernetes服务
 当你有一个运行的Kubernetes集群后，你需要创建服务和部署配置，这将依次在集群中创建并部署所需的Pod。Kubernetes的官方文档包含了许多关于如何从Docker镜像创建Pod、设置CPU和/或内存限制以及创建使用选择器的部署的步骤。请确保为每个Pod设置CPU请求和CPU限制为“0.5”，内存请求和限制为“512MiB”。
 最初，你将从一个单独的Pod开始测试你的Web服务，并根据第7节的描述逐渐增加数量。实现这一目标的首选方法是创建副本集并相应地扩展它们。
@@ -118,3 +119,17 @@ Docker通过从名为Dockerfile的文件中读取指令来构建镜像。Dockerf
 • 确保为每个 pod 限制 CPU 和内存（0.5 和 512MiB）。
 • 很重要的是，在每次实验后确保您的集群正常运行，必要时可能需要重新部署。
 # 10 提交
+您需要通过 Moodle 提交四个文件：
+
+1. 根据要求的 PDF 格式报告。
+2. 一个 ZIP 文件（不是 .RAR 或其他格式），其中包含以下内容：
+   1. 您的 Dockerfile。
+   2. 您的 Web 服务源代码。
+   3. 您的 Kubernetes 部署和服务配置（YAML 文件）。
+   4. 您的 Locust 客户端脚本。
+   5. 如果有的话，任何自动运行实验的脚本。
+3. 一个 ReadMe.txt 文件，其中包含：
+   1. 演示您系统的 8 分钟视频的 URL。您可以使用 Google Drive、Panopto 或 YouTube，例如 https://www.youtube.com/watch?v=8frmloR4gTY&t=7s。
+   2. 您 Web 服务端点的 URL，例如 http://118.138.43.2:5000/api/object detection。
+
+请确保教学团队（所有导师和讲师）可以访问视频。如果您想要告知我们其他事项，可以在此 ReadMe 文件中使用。
