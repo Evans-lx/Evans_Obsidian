@@ -184,12 +184,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff2b9dfd293354f1",
@@ -276,7 +276,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5d1f37597f94ace",
+  "active": "8c9be3c901fe50a2",
   "lastOpenFiles": [
     "Markdown语法.md",
     "Pasted image 20240416170405.png",
