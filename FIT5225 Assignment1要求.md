@@ -62,3 +62,7 @@ Web服务为每个请求创建一个线程，并使用YOLO和OpenCV Python库检
 # 3 Dockerfile
 Docker通过从名为Dockerfile的文件中读取指令来构建镜像。Dockerfile是一个文本文件，包含构建给定镜像所需的所有有序命令。你需要创建一个Dockerfile，其中包含构建Docker镜像所需的所有指令。你可以在这里找到Dockerfile的参考文档：<https://docs.docker.com/engine/reference/builder/>。
 为了降低复杂性、依赖关系、文件大小和构建时间，请避免安装额外或不必要的软件包，即使它们可能是“好用的”。例如，你不需要在镜像中包含文本编辑器。优化Dockerfile并保持易于阅读和维护的重要性。
+
+# 4 Kubernetes集群
+
+# 5 Kubernetes服务
