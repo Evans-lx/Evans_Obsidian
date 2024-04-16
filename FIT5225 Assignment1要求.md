@@ -130,7 +130,7 @@ Docker通过从名为Dockerfile的文件中读取指令来构建镜像。Dockerf
    4. 您的 Locust 客户端脚本。
    5. 如果有的话，任何自动运行实验的脚本。
 3. 一个 ReadMe.txt 文件，其中包含：
-   1. 演示您系统的 8 分钟视频的 URL。您可以使用 Google Drive、Panopto 或 YouTube，例如 https://www.youtube.com/watch?v=8frmloR4gTY&t=7s。
-   2. 您 Web 服务端点的 URL，例如 http://118.138.43.2:5000/api/object detection。
+   1. 演示您系统的 **8 分钟视频**的 **URL**。您可以使用 Google Drive、Panopto 或 YouTube，例如 https://www.youtube.com/watch?v=8frmloR4gTY&t=7s。
+   2. 您 **Web 服务端点的 URL**，例如 http://118.138.43.2:5000/api/object detection。
 
 请确保教学团队（所有导师和讲师）可以访问视频。如果您想要告知我们其他事项，可以在此 ReadMe 文件中使用。
