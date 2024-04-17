@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "演讲素材.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff2b9dfd293354f1",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown语法.md",
+                "file": "演讲素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown语法.md",
+                "file": "演讲素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown语法.md"
+                "file": "演讲素材.md"
               }
             }
           },
@@ -276,22 +275,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c9be3c901fe50a2",
+  "active": "c5d1f37597f94ace",
   "lastOpenFiles": [
-    "Spaces",
+    "FIT5225 Assignment1要求.md",
+    "演讲素材.md",
+    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+    "k8s.md",
     "Markdown语法.md",
+    "Spaces",
     "Pasted image 20240416170405.png",
     "PPT素材.md",
     "Python.md",
     "git.md",
-    "FIT5225 Assignment1要求.md",
     "7.md",
-    "k8s.md",
     "().md",
     "coco数据集.md",
     "Welcome.md",
-    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
-    "演讲素材.md",
     ".md",
     "健身.zip",
     "git_repository.png",
