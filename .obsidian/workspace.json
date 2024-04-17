@@ -184,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -277,6 +278,7 @@
   },
   "active": "c5d1f37597f94ace",
   "lastOpenFiles": [
+    "Spaces",
     "git.md",
     "macOS-Tips-main/README.md",
     "macOS-Tips-main/08 - macOS 效率指南.md",
@@ -316,10 +318,8 @@
     "Evans_Obsidian_鍓湰/PPT绱犳潗.md",
     "Evans_Obsidian_鍓湰/Untitled.pptx",
     "Evans_Obsidian_鍓湰/婕旇绱犳潗.md",
-    "Evans_Obsidian_鍓湰/Markdown璇硶.md",
     "Evans_Obsidian_鍓湰/鍋ヨ韩.zip",
     "Evans_Obsidian_鍓湰",
-    "Spaces",
     ".md",
     "健身.zip",
     "健身",
