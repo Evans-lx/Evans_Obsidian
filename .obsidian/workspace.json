@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s.md",
+                "file": "FIT5225 Assignment1要求.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s.md",
+                "file": "FIT5225 Assignment1要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s.md",
+                "file": "FIT5225 Assignment1要求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s.md"
+                "file": "FIT5225 Assignment1要求.md"
               }
             }
           },
@@ -278,8 +277,16 @@
   },
   "active": "c5d1f37597f94ace",
   "lastOpenFiles": [
-    "Spaces",
     "git.md",
+    "git_repository.png",
+    "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
+    "k8s.md",
+    "Markdown语法.md",
+    "Python.md",
+    "Welcome.md",
+    "PPT素材.md",
+    "Pasted image 20240416170405.png",
+    "Spaces",
     "macOS-Tips-main/README.md",
     "macOS-Tips-main/08 - macOS 效率指南.md",
     "macOS-Tips-main/07 - macOS 整理技巧.md",
@@ -304,20 +311,12 @@
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414122928.png",
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414123016.png",
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414122724.png",
-    "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414122907.png",
-    "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414123013.png",
     "Evans_Obsidian_鍓湰/鍋ヨ韩/鍋ヨ韩.md",
     "Evans_Obsidian_鍓湰/鍋ヨ韩",
     "Evans_Obsidian_鍓湰/macOS-Tips-main/04 - macOS 杞欢娓呭崟.md",
     "Evans_Obsidian_鍓湰/macOS-Tips-main/README.md",
-    "Evans_Obsidian_鍓湰/macOS-Tips-main/01 - macOS 鍏ラ棬鎸囧崡.md",
-    "Evans_Obsidian_鍓湰/macOS-Tips-main/03 - macOS 甯歌闂.md",
-    "Evans_Obsidian_鍓湰/macOS-Tips-main/08 - macOS 鏁堢巼鎸囧崡.md",
-    "Evans_Obsidian_鍓湰/macOS-Tips-main/05 - macOS 杞欢鑷敤.md",
     "Evans_Obsidian_鍓湰/macOS-Tips-main",
-    "Evans_Obsidian_鍓湰/PPT绱犳潗.md",
     "Evans_Obsidian_鍓湰/Untitled.pptx",
-    "Evans_Obsidian_鍓湰/婕旇绱犳潗.md",
     "Evans_Obsidian_鍓湰/鍋ヨ韩.zip",
     "Evans_Obsidian_鍓湰",
     ".md",
