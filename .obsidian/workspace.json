@@ -106,18 +106,6 @@
             }
           },
           {
-            "id": "545c7135ce41a322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nectar Keypair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49eaecc3558c99fa",
             "type": "leaf",
             "state": {
@@ -142,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -216,7 +204,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nectar Keypair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nectar Keypair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +273,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "545c7135ce41a322",
+  "active": "8c9be3c901fe50a2",
   "lastOpenFiles": [
     "FIT5225 Assignment1要求.md",
     "Nectar Keypair.md",
