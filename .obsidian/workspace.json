@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "k8s.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "k8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "k8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nectar Keypair.md"
+                "file": "k8s.md"
               }
             }
           },
@@ -273,15 +275,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c9be3c901fe50a2",
+  "active": "c5d1f37597f94ace",
   "lastOpenFiles": [
+    "Markdown语法.md",
     "FIT5225 Assignment1要求.md",
     "Nectar Keypair.md",
     "git_repository.png",
     "k8s.md",
     "git.md",
     "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
-    "Markdown语法.md",
     "Python.md",
     "Welcome.md",
     "PPT素材.md",
