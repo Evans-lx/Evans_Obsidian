@@ -99,7 +99,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "演讲稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d69458e2c492eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FIT5225 Assignment1要求.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FIT5225 Assignment1要求.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -275,15 +287,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5d1f37597f94ace",
+  "active": "9d69458e2c492eec",
   "lastOpenFiles": [
+    "演讲稿.md",
+    "未命名.md",
+    "FIT5225 Assignment1要求.md",
     "HandyCast：基于手机的虚拟现实双手输入，在移动和空间受限环境中通过姿势和触摸传输.md",
     "k8s.md",
     "Markdown语法.md",
     "Pasted image 20240416170405.png",
     "git.md",
     "git_repository.png",
-    "FIT5225 Assignment1要求.md",
     "Nectar Keypair.md",
     "Python.md",
     "Welcome.md",
@@ -299,7 +313,6 @@
     "macOS-Tips-main/02 - macOS 常用快捷键.md",
     "macOS-Tips-main/01 - macOS 入门指南.md",
     "macOS-Tips-main",
-    "演讲稿.md",
     "macOS-Tips-main/05 - macOS 杞欢鑷敤.md",
     "macOS-Tips-main/08 - macOS 鏁堢巼鎸囧崡.md",
     "macOS-Tips-main/04 - macOS 杞欢娓呭崟.md",
