@@ -112,7 +112,7 @@
               "type": "markdown",
               "state": {
                 "file": "未命名.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff2b9dfd293354f1",
