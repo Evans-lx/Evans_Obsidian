@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff2b9dfd293354f1",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演讲稿.md",
+                "file": "Markdown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演讲稿.md",
+                "file": "Markdown语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演讲稿.md"
+                "file": "Markdown语法.md"
               }
             }
           },
@@ -278,6 +277,7 @@
   },
   "active": "8c9be3c901fe50a2",
   "lastOpenFiles": [
+    "Spaces",
     "未命名.md",
     "FIT5225 Assignment1要求.md",
     "演讲稿.md",
@@ -291,7 +291,6 @@
     "Python.md",
     "Welcome.md",
     "PPT素材.md",
-    "Spaces",
     "macOS-Tips-main/README.md",
     "macOS-Tips-main/08 - macOS 效率指南.md",
     "macOS-Tips-main/07 - macOS 整理技巧.md",
@@ -315,7 +314,6 @@
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414122928.png",
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414123016.png",
     "Evans_Obsidian_鍓湰/鍋ヨ韩/Pasted image 20240414122724.png",
-    "Evans_Obsidian_鍓湰/鍋ヨ韩/鍋ヨ韩.md",
     "Evans_Obsidian_鍓湰/鍋ヨ韩",
     "Evans_Obsidian_鍓湰/macOS-Tips-main",
     "Evans_Obsidian_鍓湰/Untitled.pptx",
