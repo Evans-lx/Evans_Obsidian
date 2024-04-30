@@ -1,11 +1,14 @@
 # 基本效果
+
+^bc42a5
+
 *斜体*
 **粗体**
 ***加粗斜体***
 <u>下划线</u>
 ~~删除线~~
 <mark>着重</mark>
-$\boxed{文本}$
+$\boxed{文本}$ ^5f1771
 # 字体大小、颜色
 <font color=#0099ff size=12 face="黑体">黑体</font>
 <font color=gray size=5>gray</font>
