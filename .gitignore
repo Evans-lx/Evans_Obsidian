@@ -15,5 +15,4 @@
 .DS_Store
 
 .space/
-Space/
-.makemd/
+.obsidian/workspace.json
