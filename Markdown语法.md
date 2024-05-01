@@ -116,3 +116,7 @@ import os
 
 # 标注
 >[!INFO]
+
+>[!note]
+
+>[!quote]
