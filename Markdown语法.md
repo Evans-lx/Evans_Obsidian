@@ -134,3 +134,5 @@ This is a callout block
 - bug
 - example
 - quote, cite
+
+[^1]:脚注1
