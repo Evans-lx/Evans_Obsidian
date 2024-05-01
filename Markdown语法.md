@@ -55,10 +55,6 @@ BurlyWood </table>
 > > 2
 > > > 3
 
-# 脚注
-footnote[^1] 
-
-
 # 列表项
 ### 无序列表
 
@@ -118,21 +114,3 @@ import os
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
 
-# 标注
->[!info]
-This is a callout block
-
-- info
-- note
-- abstract, summary, tldr
-- tip, hint, important
-- success, check, done
-- question, help, faq
-- warning, caution, attention
-- failure, fail, missing
-- danger, error
-- bug
-- example
-- quote, cite
-
-[^1]:脚注1
