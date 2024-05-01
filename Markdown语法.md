@@ -57,7 +57,7 @@ BurlyWood </table>
 
 # 脚注
 footnote[^1] 
-[^1]:脚注1
+
 
 # 列表项
 ### 无序列表
