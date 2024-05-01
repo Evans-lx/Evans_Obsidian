@@ -115,8 +115,18 @@ import os
 | 单元格 | 单元格 | 单元格 |
 
 # 标注
->[!INFO]
+>[!info]
+This is a callout block
 
->[!note]
-
->[!quote]
+- info
+- note
+- abstract, summary, tldr
+- tip, hint, important
+- success, check, done
+- question, help, faq
+- warning, caution, attention
+- failure, fail, missing
+- danger, error
+- bug
+- example
+- quote, cite
